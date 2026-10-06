@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://raw.githubusercontent.com/afsalkodasseri/WinReleases/master/finbill/Finbill-Setup-1.0.6.exe",
+  "version": "1.0.8",
+  "download_url": "https://raw.githubusercontent.com/afsalkodasseri/WinReleases/master/finbill/Finbill-Setup-1.0.8.exe",
   "whats_new": [
     "New: thermal receipt preview",
     "Fixed: stock count after purchase returns"
