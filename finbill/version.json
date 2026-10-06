@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "download_url": "https://raw.githubusercontent.com/afsalkodasseri/WinReleases/master/finbill/Finbill-Setup-1.0.8.exe",
+  "version": "1.0.9",
+  "download_url": "https://raw.githubusercontent.com/afsalkodasseri/WinReleases/master/finbill/Finbill-Setup.exe",
   "whats_new": [
-    "New: thermal receipt preview",
-    "Fixed: stock count after purchase returns"
+    "New: Added update available toast",
+    "Fixed: Updates with the same app file url"
   ]
 }
