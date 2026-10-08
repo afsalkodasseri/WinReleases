@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
+  "version": "1.2.1",
   "download_url": "https://raw.githubusercontent.com/afsalkodasseri/WinReleases/master/finbill/Finbill-Setup.exe",
   "whats_new": [
-    "New: Added update available toast",
-    "Fixed: Updates with the same app file url"
+    "New: Employee salaries added",
+    "Fixed: Products deletion and sort added"
   ]
 }
