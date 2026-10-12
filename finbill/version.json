@@ -1,8 +1,9 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "download_url": "https://raw.githubusercontent.com/afsalkodasseri/WinReleases/master/finbill/Finbill-Setup.exe",
   "whats_new": [
     "New: Employee payment from business",
-    "Fixed: Image sync added"
+    "Fixed: Image sync added",
+    "Dev: Added Easy Build"
   ]
 }
