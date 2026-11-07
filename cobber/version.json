@@ -1,8 +1,10 @@
 {
-  "version": "1.1.4",
+  "version": "1.2.0",
   "download_url": "https://raw.githubusercontent.com/afsalkodasseri/WinReleases/master/cobber/Cobber-Setup.exe",
   "whats_new": [
-    "Added : Passenger seperate ticket Added",
-    "Improved : Loading UIs"
+    "Fixed : Passenger selected pdf fixes",
+    "Added : Airline logo caching to faster pdf generation",
+    "Added : Airline logo in the ticket listing",
+    "New : Dumy Ticket option"
   ]
 }
