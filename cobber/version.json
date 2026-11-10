@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "download_url": "https://raw.githubusercontent.com/afsalkodasseri/WinReleases/master/cobber/Cobber-Setup.exe",
   "whats_new": [
-    "Added : Pdf copying settings added"
+    "Added : dummy hotel pdf fixes"
   ]
 }
