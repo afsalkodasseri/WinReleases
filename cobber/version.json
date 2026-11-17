@@ -1,8 +1,9 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "download_url": "https://raw.githubusercontent.com/afsalkodasseri/WinReleases/master/cobber/Cobber-Setup.exe",
   "whats_new": [
-    "Added Date Change issuing",
-    "Added App update improvements"
+    "Fixed agent transaction issue",
+    "Improved ui of agents screen",
+    "Improved agent report pdf"
   ]
 }
